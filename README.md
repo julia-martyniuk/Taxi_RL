@@ -16,13 +16,17 @@ To run this project, you will need Python 3.8+ and the following libraries:
 - random
 
 ## Project Structure
-Taxi_q_learning_notebook: Q-Learning implementation and results.
+Taxi_q_learning - Final: Q-Learning implementation and results.
 
 Taxi_PolicyGR - Final.ipynb: REINFORCE implementation, training loop, and evaluation.
 
 policy_taxi_videos: folder contains videos from PolicyGR training.
 
+q-learning_video: folder contains videos from Q-Learning training.
+
 weights: folder contains the pre-trained weights from PolicyGR.
+
+presentations: folder contains Middle term and Final presentations. 
 
 ## Key findings 
 This project demonstrates the trade-offs between tabular and neural-network-based RL. While Q-learning is superior for small, discrete grids, the Policy Gradient approach provides a foundation for scaling to continuous or high-dimensional state spaces where tables are no longer feasible.
