@@ -16,7 +16,7 @@ To run this project, you will need Python 3.8+ and the following libraries:
 - random
 
 ## Project Structure
-q_learning_notebook.ipynb: Q-Learning implementation and results.
+Taxi_q_learning_notebook: Q-Learning implementation and results.
 
 Taxi_PolicyGR - Final.ipynb: REINFORCE implementation, training loop, and evaluation.
 
